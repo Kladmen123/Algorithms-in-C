@@ -1,0 +1,7 @@
+# .gitignore
+*.exe
+*.out
+*.o
+*.a
+*~
+.dSYM/
